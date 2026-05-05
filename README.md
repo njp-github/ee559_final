@@ -7,7 +7,7 @@ Code and instructions to run scripts for EE 559 (Sp2026) Final Project by Rama C
 - pytorch
 - pytorch-3dunet (conda install -c conda-forge pytorch-3dunet)
 
-# Fetal Brain Age Prediction — Notebook Overview
+# Fetal Brain Segmentation and Age Prediction — Notebook Overview
 
 1. Extract tissue volumes from pre-annotated segmentation masks → Ridge regression age prediction (baseline)
 2. Train 3 segmentation models on T2w images:
