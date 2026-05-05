@@ -17,3 +17,6 @@ Code and instructions to run scripts for EE 559 (Sp2026) Final Project by Rama C
 3. Loss: `CombinedLoss = ce_w·CrossEntropy + (1−ce_w)·SoftDiceLoss` (background ignored)
 4. Evaluation: per-class Dice score + mean Dice (foreground) + voxel accuracy (without background)
 5. End-to-End: Age Prediction from Predicted Segmentation of MRI
+
+## Further Instrutions:
+- Change folder path to dataset and participants.tsv 
